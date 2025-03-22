@@ -54,5 +54,5 @@
         <field name="view_mode">kanban,tree,graph</field>
     </record>
 
-    <menuitem id="menu_project_dashboard" name="Dashboard" parent="menu_project_root" action="action_project_dashboard"/>
+    <!-- <menuitem id="menu_project_dashboard" name="Dashboard" parent="menu_project_root" action="action_project_dashboard"/> -->
 </odoo>
